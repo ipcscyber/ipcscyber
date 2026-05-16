@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **java, Pentesting, and backend security**
 - 👨‍💻 All of my projects are available at 👉 [ind3nt_'s projects](https://ipcscyber.com/projects)
-- 📫 How to reach me: **ind3nt_** on (Discord)[https://discord.com/users/1041016337146859561]
+- 📫 How to reach me: **ind3nt_** on [Discord](https://discord.com/users/1041016337146859561)
 
 <h3 align="left">Languages that i know:</h3>
 <p align="left">
