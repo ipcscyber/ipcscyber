@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm 𝐢𝐧𝐝𝟑𝐧𝐭_</h1>
+<h1 align="center">Hi 👋, I'm ᴜɢx2</h1>
 <h3 align="center">I'm passionate about cybersecurity (**SOC Analyst**) and development 🚀</h3>
 
 <p align="center">
