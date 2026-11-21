@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm ᴜɢx2</h1>
+<h1 align="center">Hi 👋, I'm wannadev</h1>
 <h3 align="center">I'm passionate about cybersecurity and development 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ipcscyber&label=Profile%20views&color=0e75b6&style=flat" alt="ipcscyber" />
 </p>
 
-- 🌱 I’m currently learning **java, Pentesting, and backend security**
-- 👨‍💻 All of my projects are available at 👉 [ind3nt_'s projects](https://ipcscyber.com/projects)
-- 📫 How to reach me: **ind3nt_** on [Discord](https://discord.com/users/1041016337146859561)
+- 🌱 I’m currently learning **Pentesting, and backend security**
+- 👨‍💻 All of my projects are available at 👉 [wannadev's projects](https://ipcscyber.com/) [DOWN]
+- 📫 How to reach me: **wc** on [Discord](https://discord.com/users/1041016337146859561)
 
 <h3 align="left">Languages that i know:</h3>
 <p align="left">
